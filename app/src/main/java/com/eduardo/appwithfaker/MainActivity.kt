@@ -68,6 +68,8 @@ class MainActivity : ComponentActivity(), OnMapReadyCallback {
         val locations = listOf(
             LatLng(16.8958594, -92.0672737),
             LatLng(16.8777072, -92.1068749)
+            //Agregado por Johnny
+            LatLng(16.8777079, -92.1068899)
         )
 
         for (location in locations) {
